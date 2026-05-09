@@ -25,7 +25,7 @@ Pour valider l'écoulement gravitaire et éviter les conflits de réseaux (clash
 * **Profondeur de couverture :** J'ai vérifié que la génératrice supérieure de chaque canalisation dispose d'une hauteur de couverture suffisante pour résister au poinçonnement des véhicules, tout en optimisant la profondeur pour limiter les coûts de terrassement.
 
 <p align="center">
-  <img src="chemin/vers/ton_image_profil_en_long.png" width="90%" alt="Extrait d'un profil en long EU/EP">
+  [EP 1.pdf](https://github.com/user-attachments/files/27551619/EP.1.pdf)
   <br><em>Figure 1 : Extrait d'un profil en long du réseau (Axe R9-R1) détaillant les cotes terrains, radiers et pentes.</em>
 </p>
 
